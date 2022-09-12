@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Adrien's First CS193 Homework
+
+- fun professors
+- sexy professors
+- cool professors
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,11 +24,13 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. _**continued**_
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+https://purdue.brightspace.com/d2l/home/6824
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
